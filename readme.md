@@ -4,14 +4,6 @@
 
 ---
 
-## Process Overview
-
-Below is a visual representation of how the tool navigates, fetches GraphQL data, and recursively extracts follower lists:
-
-![FbDumpFile Workflow](watermarked_img_10463910493886622648.jpg)
-
----
-
 ## Features
 
 - **Automated Data Scraping:** Extracts follower names and unique identifiers (UIDs).
